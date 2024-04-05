@@ -1,31 +1,33 @@
 header {
-    padding   : 10px 0;
-    position  : fixed;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    position: fixed;
     background: #fff;
-    width     : 100%;
-    left      : 0;
-    right     : 0;
-    top       : 0;
+    width: 100%;
+    left: 0;
+    right: 0;
+    top: 0;
 }
 
 .header-wp {
-    display        : flex;
+    display: flex;
     justify-content: space-between;
-    align-items    : center;
+    align-items: center;
 }
 
 .right-header ul {
-    padding   : 0;
-    margin    : 0;
+    padding: 0;
+    margin: 0;
     list-style: none;
 }
 
 .right-header ul {
-    gap    : 30px;
+    gap: 30px;
     display: flex;
 }
 
 .right-header ul li {
     font-weight: 700;
-    color      : rgba(50, 47, 49, .85);
+    color: rgba(50, 47, 49, 0.85);
 }

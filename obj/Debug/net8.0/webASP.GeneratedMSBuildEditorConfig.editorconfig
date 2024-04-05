@@ -9,63 +9,63 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = webASP
 build_property.RootNamespace = webASP
-build_property.ProjectDir = D:\worksapce\c#\webASP\
+build_property.ProjectDir = D:\Documents\worksapce\do_an_1\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\worksapce\c#\webASP
+build_property.MSBuildProjectDirectory = D:\Documents\worksapce\do_an_1
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/worksapce/c\#/webASP/Views/About/index.cshtml]
+[D:/Documents/worksapce/do_an_1/Views/About/index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcaW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/worksapce/c\#/webASP/Views/About/info.cshtml]
+[D:/Documents/worksapce/do_an_1/Views/About/info.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcaW5mby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/worksapce/c\#/webASP/Views/Home/About.cshtml]
+[D:/Documents/worksapce/do_an_1/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/worksapce/c\#/webASP/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/worksapce/c\#/webASP/Views/Home/Privacy.cshtml]
+[D:/Documents/worksapce/do_an_1/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/worksapce/c\#/webASP/Views/Shared/Components/footer/Footer.cshtml]
+[D:/Documents/worksapce/do_an_1/Views/Shared/Components/footer/Footer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcZm9vdGVyXEZvb3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/worksapce/c\#/webASP/Views/Shared/Components/icons/logo.cshtml]
+[D:/Documents/worksapce/do_an_1/Views/Shared/Components/icons/logo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcaWNvbnNcbG9nby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/worksapce/c\#/webASP/Views/Shared/Error.cshtml]
+[D:/Documents/worksapce/do_an_1/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/worksapce/c\#/webASP/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Documents/worksapce/do_an_1/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/worksapce/c\#/webASP/Views/_ViewImports.cshtml]
+[D:/Documents/worksapce/do_an_1/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/worksapce/c\#/webASP/Views/_ViewStart.cshtml]
+[D:/Documents/worksapce/do_an_1/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/worksapce/c\#/webASP/Views/Shared/Components/header/Header.cshtml]
+[D:/Documents/worksapce/do_an_1/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-paq7t9cvfh
+
+[D:/Documents/worksapce/do_an_1/Views/Shared/Components/header/Header.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcaGVhZGVyXEhlYWRlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = b-2wa88qn2hf
 
-[D:/worksapce/c\#/webASP/Views/Shared/_Layout.cshtml]
+[D:/Documents/worksapce/do_an_1/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-98ljew55sx
