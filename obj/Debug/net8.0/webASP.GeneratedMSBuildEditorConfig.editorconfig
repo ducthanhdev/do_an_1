@@ -50,6 +50,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Documents/worksapce/do_an_1/Views/System/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3lzdGVtXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Documents/worksapce/do_an_1/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -57,6 +61,18 @@ build_metadata.AdditionalFiles.CssScope =
 [D:/Documents/worksapce/do_an_1/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/worksapce/do_an_1/Views/About/Introduce.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW50cm9kdWNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-hehka51xxx
+
+[D:/Documents/worksapce/do_an_1/Views/About/PolicyBooking.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcUG9saWN5Qm9va2luZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-s0g8shnwng
+
+[D:/Documents/worksapce/do_an_1/Views/About/PriceList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcUHJpY2VMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-lpmya6a682
 
 [D:/Documents/worksapce/do_an_1/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=

@@ -13,15 +13,33 @@ public class AboutController : Controller
         _logger = logger;
     }
 
-    public IActionResult Index(int id)
+    public IActionResult Index()
     {
         return View();
     }
 
     public IActionResult Info()
     {
+        Console.WriteLine("Check: " + Request.Query["id"].ToString());
         return View();
     }
+
+    public IActionResult PriceList()
+    {
+        return View();
+    }
+
+    public IActionResult Introduce()
+    {
+        return View();
+    }
+
+    public IActionResult PolicyBooking()
+    {
+        return View();
+    }
+
+
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()

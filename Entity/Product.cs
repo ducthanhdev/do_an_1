@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using Microsoft.AspNetCore.Authorization;
 
 namespace ThiToeic.Entity
 {
@@ -19,5 +20,8 @@ namespace ThiToeic.Entity
         // public virtual DeThi IddeThiNavigation { get; set; } = null!;
         // public virtual NguoiDung IdnguoiDungNavigation { get; set; } = null!;
         // public virtual ICollection<KetQua> KetQuas { get; set; }
+
+        // Order.find({
+
     }
 }
