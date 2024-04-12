@@ -12,24 +12,12 @@
         "projectPath": "D:\\Documents\\worksapce\\do_an_1\\webASP.csproj",
         "packagesPath": "C:\\Users\\Thanh IT\\.nuget\\packages\\",
         "outputPath": "D:\\Documents\\worksapce\\do_an_1\\obj\\",
-    "D:\\learn\\university\\Do an 1\\do_an_1\\webASP.csproj": {}
-  },
-  "projects": {
-    "D:\\learn\\university\\Do an 1\\do_an_1\\webASP.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\learn\\university\\Do an 1\\do_an_1\\webASP.csproj",
-        "projectName": "webASP",
-        "projectPath": "D:\\learn\\university\\Do an 1\\do_an_1\\webASP.csproj",
-        "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "D:\\learn\\university\\Do an 1\\do_an_1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\Thanh IT\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

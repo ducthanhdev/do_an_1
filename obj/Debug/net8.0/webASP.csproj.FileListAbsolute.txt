@@ -64,3 +64,6 @@ D:\Documents\worksapce\do_an_1\obj\Debug\net8.0\ref\webASP.dll
 D:\Documents\worksapce\do_an_1\obj\Debug\net8.0\scopedcss\Views\Home\Index.cshtml.rz.scp.css
 D:\Documents\worksapce\do_an_1\bin\Debug\net8.0\package-lock.json
 D:\Documents\worksapce\do_an_1\bin\Debug\net8.0\package.json
+D:\Documents\worksapce\do_an_1\obj\Debug\net8.0\scopedcss\Views\About\Introduce.cshtml.rz.scp.css
+D:\Documents\worksapce\do_an_1\obj\Debug\net8.0\scopedcss\Views\About\PolicyBooking.cshtml.rz.scp.css
+D:\Documents\worksapce\do_an_1\obj\Debug\net8.0\scopedcss\Views\About\PriceList.cshtml.rz.scp.css

@@ -3,16 +3,6 @@
   "dgSpecHash": "hbvOzRQb15bB/cOQgUqV8A9Tx8VFiUprkYSj6iqiPpBEDEw1MH8eurv22LBjOsSjfvrP7W9pdFyy+rMYqM+muQ==",
   "success": true,
   "projectFilePath": "D:\\Documents\\worksapce\\do_an_1\\webASP.csproj",
-  "dgSpecHash": "1PBeYubZbw+9HsyfVC3PKYLTgJQehxjdFocB3IGToK1SBe5KQKRKrMrW9W8TM2olxUTmmqzSrZnMi/FZiutDUw==",
-  "success": true,
-  "projectFilePath": "D:\\learn\\university\\Do an 1\\do_an_1\\webASP.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file D:\\learn\\university\\Do an 1\\do_an_1\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
